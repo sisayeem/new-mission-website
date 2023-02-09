@@ -1,0 +1,36 @@
+header{
+    text-align: right;
+    background-image: url(images/banner/banner3.png);
+    background-size: cover;
+    padding: 20px;
+    height: 700px;
+}
+.header{
+    margin: 300px  100px ;
+    color: aliceblue;
+}
+.head{
+   
+    font-size: 64px;
+    font-weight: bolder;
+}
+#contact{
+    color: aqua;
+}
+
+
+.middle-section{
+    width: 600px;
+}
+.pic-peragraph{
+    width: 30%;
+   margin: 100px 150px;
+   float: left;
+}
+
+         
+
+   
+   
+
+
